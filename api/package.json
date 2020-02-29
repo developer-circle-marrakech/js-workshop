@@ -1,0 +1,29 @@
+{
+  "name": "express-javascript-starter",
+  "version": "0.0.1",
+  "description": "A starting point for Node.js express apps with Javascript",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "nodemon index.js",
+    "server:start": "node index.js",
+    "server:watch": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "colors": "^1.1.2",
+    "compression": "^1.7.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.26",
+    "mongoose": "^5.2.3",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.17.5"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
