@@ -19,7 +19,7 @@
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
     "mongodb": "^2.2.26",
-    "mongoose": "^5.2.3",
+    "mongoose": "^5.7.5",
     "morgan": "^1.8.2",
     "nodemon": "^1.17.5"
   },
