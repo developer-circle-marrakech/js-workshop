@@ -16,7 +16,7 @@ const TodoList = ({ todos, deleteTodo }) => (
         </div>
         <div className="checkbox">
           <label>
-            <span style={{ fontSize: "20px" }}>{todo}</span>
+            <span style={{ fontSize: "20px" }}>{todo.title}</span>
           </label>
         </div>
       </li>
