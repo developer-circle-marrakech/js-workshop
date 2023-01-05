@@ -12,12 +12,12 @@
     "server:watch": "nodemon index.js"
   },
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.1",
     "colors": "^1.1.2",
     "compression": "^1.7.2",
     "cors": "^2.8.4",
     "dotenv": "^4.0.0",
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "mongodb": "^2.2.26",
     "mongoose": "^5.7.5",
     "morgan": "^1.8.2",
