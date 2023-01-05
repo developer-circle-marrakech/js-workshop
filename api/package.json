@@ -18,7 +18,7 @@
     "cors": "^2.8.4",
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
-    "mongodb": "^2.2.26",
+    "mongodb": "^3.1.13",
     "mongoose": "^5.7.5",
     "morgan": "^1.8.2",
     "nodemon": "^1.17.5"
